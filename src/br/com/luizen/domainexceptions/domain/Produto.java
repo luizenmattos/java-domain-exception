@@ -1,4 +1,4 @@
-package domain_exceptions.domain;
+package br.com.luizen.domainexceptions.domain;
 
 import java.math.BigDecimal;
 public class Produto {

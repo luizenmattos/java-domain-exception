@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module domain_exceptions {
-}

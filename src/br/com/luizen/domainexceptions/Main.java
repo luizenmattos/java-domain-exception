@@ -1,9 +1,9 @@
-package domain_exceptions;
+package br.com.luizen.domainexceptions;
 
 import java.math.BigDecimal;
 
-import domain_exceptions.domain.DomainWrapper;
-import domain_exceptions.domain.Produto;
+import br.com.luizen.domainexceptions.domain.DomainWrapper;
+import br.com.luizen.domainexceptions.domain.Produto;
 
 public class Main {
 	
